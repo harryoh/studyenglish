@@ -2,6 +2,8 @@ title:            영어쫌
 tagline:          A beautiful theme.
 description:      영어 좀 잘하자!!
 canonical: http://studyenglish.5004.pe.kr
+baseurl: "/studyenglish"
+url: "http://harryoh.github.io"
 
 # Owner/author information
 owner:

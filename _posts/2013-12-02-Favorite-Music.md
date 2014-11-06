@@ -6,9 +6,11 @@ audio: http://goo.gl/34s3VM
 
 ###Extra Topics for study groups  
 
-1. What's your least favorite type music? Why do you not like that type of music?  
-2. When do you listen to music the most?  
-3. Do you listen to music when you are working or studying?  
+What's your least favorite type music? Why do you not like that type of music?  
+
+When do you listen to music the most?  
+
+Do you listen to music when you are working or studying?  
 
 
 ###Topic

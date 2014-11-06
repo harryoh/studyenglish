@@ -1,7 +1,8 @@
 ---
 layout: post-audio
 title: "#1 Favorite Music"
-audio: http://goo.gl/34s3VM
+#audio: http://goo.gl/34s3VM
+audio: /assets/mp3/12-02.mp3
 ---
 
 ###Topic

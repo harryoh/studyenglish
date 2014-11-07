@@ -2,7 +2,7 @@
 layout: post-audio
 title: "#1 Favorite Music"
 #audio: http://goo.gl/34s3VM
-audio: /assets/mp3/12-02.mp3
+audio: http://harryoh.bitbucket.org/study/ebs-speaking/201312/12-02.mp3
 ---
 
 ###Topic

@@ -9,10 +9,10 @@ audio: http://harryoh.bitbucket.org/study/ebs-speaking/201312/12-03.mp3
 
 Smartphones these days are all-in-one devices. Naturally, I use my smartphone to listen to music. First and foremost, it's extremely convenient since I always have my phone on me. I don't have to carry around and extra gadget to listen to music. Also, my phone has a lot of storage on it, so I can store hundreds of songs. It's also easy to search for songs. My phone also lets me listen to songs randomly. The sound quality is pretty good as well. Plus, it's the perfect size: not too big, not too small. It fits perfectly in my hands.
 
-
 ###Expression‍ of the day
 
-**I can search by genre.** 장르별로 검색할 수 있어. 
+**I can search by genre.**  
+장르별로 검색할 수 있어.
 
 A : Can you do searches for songs?  
 B : Yes, I can search by genre.  

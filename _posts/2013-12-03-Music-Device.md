@@ -14,12 +14,12 @@ Smartphones these days are all-in-one devices. Naturally, I use my smartphone to
 
 **I can search by genre.** 장르별로 검색할 수 있어. 
 
-A : Can you do searches for songs? 
-B : Yes, I can search by genre.
-A : Can you also search by artist or album covers? 
-B : Yes, I can. 
+A : Can you do searches for songs?  
+B : Yes, I can search by genre.  
+A : Can you also search by artist or album covers?  
+B : Yes, I can.  
 
-A : 노래 검색 좀 할 수 있니? 
-B : 응, 장르별로 검색할 수 있어.
-A : 가수나 앨범 커버별로도 검색할 수 있어? 
-B : 응, 할 수 있어. 
+A : 노래 검색 좀 할 수 있니?  
+B : 응, 장르별로 검색할 수 있어.  
+A : 가수나 앨범 커버별로도 검색할 수 있어?  
+B : 응, 할 수 있어.  

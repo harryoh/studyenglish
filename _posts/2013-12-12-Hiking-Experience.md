@@ -11,15 +11,15 @@ My family and I recently went on a hike to a mountain called Bukhansan. We wante
 
 ###Expression‍ of the day
 
-**It was great to breathe in the fresh air.**
+**It was great to breathe in the fresh air.**  
 상쾌한 공기를 마시니 정말 좋았어.
 
-A : How was your hike?
-B : It was really good. It was great to breathe in the fresh air.
-A : I'm sure it was.
-B : You should come with us next time.
+A : How was your hike?  
+B : It was really good. It was great to breathe in the fresh air.  
+A : I'm sure it was.  
+B : You should come with us next time.  
 
-A : 하이킹을 어땠니?
-B : 정말 좋더라. 상쾌한 공기를 마시니 정말 좋았어.
-A : 그랬을 것 같아.
-B : 다음번에 우리랑 같이 가자.
+A : 하이킹을 어땠니?  
+B : 정말 좋더라. 상쾌한 공기를 마시니 정말 좋았어.  
+A : 그랬을 것 같아.  
+B : 다음번에 우리랑 같이 가자.  

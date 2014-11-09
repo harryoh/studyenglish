@@ -11,15 +11,15 @@ I ride bicycles whenever I have the opportunity. There is a riverside park along
 
 ###Expression‍ of the day
 
-**Make sure to wear knee pads.**
+**Make sure to wear knee pads.**  
 무릎 보호대를 착용하도록 해.
 
-A : Are you going out to ride your bike?
-B : Yes, that's why I have my helmet on.
-A : Make sure to wear knee pads as well.
-B : I will. They're in my car.
+A : Are you going out to ride your bike?  
+B : Yes, that's why I have my helmet on.  
+A : Make sure to wear knee pads as well.  
+B : I will. They're in my car.  
 
-A : 자저거 타러 나가니?
-B : 응, 그래서 헬멧 쓴 거야.
-A : 무릎 보호대도 착용해.
-B : 그럴게.차에 있어.
+A : 자저거 타러 나가니?  
+B : 응, 그래서 헬멧 쓴 거야.  
+A : 무릎 보호대도 착용해.  
+B : 그럴게.차에 있어.  

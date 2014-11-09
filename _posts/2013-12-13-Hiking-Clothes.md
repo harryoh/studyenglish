@@ -11,15 +11,15 @@ I normally wear gym clothes when I go hiking. Usually, this consists of a sweats
 
 ###Expression‍ of the day
 
-**I slipped and fell while I was hiking.**
-나는 등산하다가 미끄러져서 넘어졌어.
+**I slipped and fell while I was hiking.**  
+나는 등산하다가 미끄러져서 넘어졌어.  
 
-A : What happened to your foot?
-B : I slipped and fell while I was hiking.
-A : Oh, no! Did you break anything?
-B : No, I just sprained my ankle.
+A : What happened to your foot?  
+B : I slipped and fell while I was hiking.  
+A : Oh, no! Did you break anything?  
+B : No, I just sprained my ankle.  
 
-A : 발이 왜 그래?
-B : 등산하다가 미끄러져서 넘어졌어.
-A : 이런! 어디 부러진 거 아니고?
-B : 아니, 그냥 발목만 좀 삐었어.
+A : 발이 왜 그래?  
+B : 등산하다가 미끄러져서 넘어졌어.  
+A : 이런! 어디 부러진 거 아니고?  
+B : 아니, 그냥 발목만 좀 삐었어.  

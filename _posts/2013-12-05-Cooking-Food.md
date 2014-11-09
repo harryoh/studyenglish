@@ -11,15 +11,15 @@ I'm not the best cook out there, but I know how to cook to some degree. Now, one
 
 ###Expression‍ of the day
 
-**My mom is the best cook.**
-우리 어머니는 음식을 진짜 잘하셔.
+**My mom is the best cook.**  
+  우리 어머니는 음식을 진짜 잘하셔.
 
-A : Do you like your mom's cooking?
-B : Oh, you best! My mom is the best cook.
-A : What is her specialty?
-B : She used to cook all sorts of Korean stews very well.
+A : Do you like your mom's cooking?  
+B : Oh, you best! My mom is the best cook.  
+A : What is her specialty?  
+B : She used to cook all sorts of Korean stews very well.  
 
-A : 너는 어머니가 해 주시는 음식을 좋아하니?
-B : 당연하지! 우리 어머니는 음식을 진짜 잘하셔.
-A : 어떤 음식을 가장 잘하시는데?
-B : 온갖 종류의 한국 찌개를 정말 잘 끓이셨어.
+A : 너는 어머니가 해 주시는 음식을 좋아하니?  
+B : 당연하지! 우리 어머니는 음식을 진짜 잘하셔.  
+A : 어떤 음식을 가장 잘하시는데?  
+B : 온갖 종류의 한국 찌개를 정말 잘 끓이셨어.  

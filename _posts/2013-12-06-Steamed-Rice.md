@@ -11,15 +11,15 @@ Koreans eat steamed rice all the time. It's our staple food. Every household has
 
 ###Expression‍ of the day
 
-**Stir-fry the vegetables first.**
+**Stir-fry the vegetables first.**  
 우선 채소를 기름에 가볍게 볶아.
 
-A : What do you want me to do?
-B : Stir-fry the vegetables first.
-A : Should I use olive oil?
-B : Yes, please go ahead.
+A : What do you want me to do?  
+B : Stir-fry the vegetables first.  
+A : Should I use olive oil?  
+B : Yes, please go ahead.  
 
-A : 내가 무엇을 할까?
-B : 우선 채소를 기름에 가볍게 볶아.
-A : 올리브 오일을 쓸까?
-B : 응, 그렇게 해.
+A : 내가 무엇을 할까?  
+B : 우선 채소를 기름에 가볍게 볶아.  
+A : 올리브 오일을 쓸까?  
+B : 응, 그렇게 해.  

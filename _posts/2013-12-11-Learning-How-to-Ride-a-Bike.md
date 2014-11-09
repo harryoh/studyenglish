@@ -11,15 +11,15 @@ I remember learning how to ride a bike when I was a kid. My first bike had train
 
 ###Expression‍ of the day
 
-**Check if the brakes are working properly.**
+**Check if the brakes are working properly.**  
 브레이크가 제대로 작동하늕 확인해 봐.
 
-A : I haven't ridden this bike for a long time.
-B : Check if the brakes are working properly.
-A : I did. They're a little rusty, but they're okay.
-B : It seems to be in good shape.
+A : I haven't ridden this bike for a long time.  
+B : Check if the brakes are working properly.  
+A : I did. They're a little rusty, but they're okay.  
+B : It seems to be in good shape.  
 
-A : 이 자전거 탄 지 좀 오래되었어.
-B : 브레이크가 제대로 작동하는지 확인해 봐.
-A : 했어. 약간 녹이 슬어 있긴 한데 괜찮아.
-B : 상태는 괜찮아 보인다.
+A : 이 자전거 탄 지 좀 오래되었어.  
+B : 브레이크가 제대로 작동하는지 확인해 봐.  
+A : 했어. 약간 녹이 슬어 있긴 한데 괜찮아.  
+B : 상태는 괜찮아 보인다.  

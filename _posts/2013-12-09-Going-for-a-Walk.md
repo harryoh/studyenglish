@@ -11,15 +11,15 @@ I like taking walks. I often go for a walk at a park near my house. It's only a 
 
 ###Expression‍ of the day
 
-**I'm not getting enough exercise these days**
+**I'm not getting enough exercise these days**  
 요즘 운동을 충분히 못하고 있어.
 
-A : I'm not getting enough exercise these days.
-B : I thought you worked out quite often.
-A : I 've been too busy recently.
-B : Is it because you got trasnferred to another department?
+A : I'm not getting enough exercise these days.  
+B : I thought you worked out quite often.  
+A : I 've been too busy recently.  
+B : Is it because you got trasnferred to another department?  
 
-A : 요즘 운동을 충분히 못하고 있어.
-B : 너 꽤 자주 운동하는 줄 알았는데.
-A : 요새 너무 바빴거든.
-B : 부서 이전해서 그런거야?
+A : 요즘 운동을 충분히 못하고 있어.  
+B : 너 꽤 자주 운동하는 줄 알았는데.  
+A : 요새 너무 바빴거든.  
+B : 부서 이전해서 그런거야?  

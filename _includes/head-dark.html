@@ -40,6 +40,8 @@
 
 <!-- Load Modernizr -->
 <script src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<!-- Load audiojs -->
+<script src="{{ site.url }}/assets/js/audio.min.js"></script>
 
 
 <!-- Icons -->
@@ -60,7 +62,7 @@
             <li>
               <a href="{{ site.url }}" title="{{ site.title }}">Home</a>
             </li>
-            
+
             {% for link in site.links %}
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
